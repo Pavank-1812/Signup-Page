@@ -14,7 +14,7 @@ body{
     background: linear-gradient(to top left,  #32c888,#2773a5);
 }
 .inner-box{
-    width: 400px;
+    max-width: 400px;
     margin: 0 auto;
     position: relative;
     top: 40%;
